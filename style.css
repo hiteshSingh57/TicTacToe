@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #548687;
+  background-color: rgb(21, 77, 113, 90%);
   text-align: center;
 }
 
@@ -32,8 +32,8 @@ body {
   border-radius: 1rem;
   border: none;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
-  font-size: 8vmin;
-  color: #b0413e;
+  font-size: 9vmin;
+  color:rgb(209 105 105 / 70%));
   background-color: #ffffc7;
 }
 
@@ -72,3 +72,4 @@ body {
 .hide {
   display: none;
 }
+
